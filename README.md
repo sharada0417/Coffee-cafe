@@ -15,19 +15,19 @@ A responsive and modern website for a cozy café, designed with **HTML**, **CSS*
 ## Demo Screenshots  
 
 ### 1. Home Section  
-![Home Section](https://github.com/user-attachments/assets/placeholder1)
+![ss1](https://github.com/user-attachments/assets/382a25c1-3049-449f-a0dd-adaeef5c4ea8)
 
 ### 2. Menu Section  
-![Menu Section](https://github.com/user-attachments/assets/placeholder2)
+![ss2](https://github.com/user-attachments/assets/5000b2e3-7de8-4a42-a435-56913c9b86f2)
 
 ### 3. Specials Section  
-![Specials Section](https://github.com/user-attachments/assets/placeholder3)
+![ss3](https://github.com/user-attachments/assets/2b1b8951-3251-40c9-af48-8d7cf3841390)
 
 ### 4. Contact Section  
-![Contact Section](https://github.com/user-attachments/assets/placeholder4)
+![ss4](https://github.com/user-attachments/assets/1b169650-3940-4455-945f-8af63802f7f4)
 
 ### 5. About Us Section  
-![About Us Section](https://github.com/user-attachments/assets/placeholder5)
+![ss5](https://github.com/user-attachments/assets/4dc4197f-221e-4457-86f7-46c26a702219)
 
 ---
 
